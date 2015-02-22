@@ -1,4 +1,4 @@
-## Introduction
+## Tidy Data Code Book
 
 tidy_data.txt is a cleaned-up version of the Human Activity Recognition Using Smartphones Data Set, collected from the accelerometers from the Samsung Galaxy S smartphone, which is originally from:
 
